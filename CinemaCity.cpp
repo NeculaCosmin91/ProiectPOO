@@ -7,4 +7,6 @@ class Proiect {
 private: 
 	int nrLocuri;
 	string Film;
+private:
+	string Locatie;
 };
