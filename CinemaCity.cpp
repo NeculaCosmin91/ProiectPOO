@@ -10,3 +10,7 @@ private:
 private:
 	string Locatie;
 };
+
+class Cinema {
+	
+}:
