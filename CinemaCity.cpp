@@ -16,13 +16,11 @@ class Bilet
 {
 	const int nrBilete;
 	int pret;
-
-	
-
 };
 
 class Sala
 {
-
+	const int nrLocuri;
+	int randuri;
+	
 };
- 
