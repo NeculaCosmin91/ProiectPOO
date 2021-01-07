@@ -1,7 +1,3 @@
-//
-// Created by stefan on 1/6/21.
-//
-
 #include <cstring>
 #include "Film.h"
 #include "util.h"
