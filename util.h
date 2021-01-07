@@ -1,7 +1,3 @@
-//
-// Created by stefan on 1/7/21.
-//
-
 #ifndef BILETE_UTIL_H
 #define BILETE_UTIL_H
 
