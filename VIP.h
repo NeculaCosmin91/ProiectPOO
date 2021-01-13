@@ -46,4 +46,4 @@ public:
 };
 
 
-#endif //BILETE_LOC_H
+#endif //BILETE_VIP_H
